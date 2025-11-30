@@ -1,4 +1,4 @@
-# Lifecycle-OF-A-TCP
+# LIFECYCLE-OF-A-TCP
 This case file demonstrates a TCP conversation within a packet capture I had today. This artifact provides: the initial TCP handhshake, data transfers and the TCP teardown.
 
 Packet Breakdown:
