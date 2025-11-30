@@ -1,5 +1,5 @@
 # Lifecycle-OF-A-TCP
-This case file demonstrates aTCP conversation within a packet capture I had today. This artifact provides: the initial TCP handhshake, data transfers and the TCP teardown.
+This case file demonstrates a TCP conversation within a packet capture I had today. This artifact provides: the initial TCP handhshake, data transfers and the TCP teardown.
 
 Packet Breakdown:
 Packet # 36 with a sequence# 2105497879 provides a SYN flag from the client side from the ephemeral port 47378 to the destinaton port of 443 (HTTPS) of the Server side.
