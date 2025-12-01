@@ -1,1 +1,1 @@
-
+This case provides the initial TCP handshake from packets 13-15 for an email to be sent through SMTP. After the TCP handshake is completed on packet 16, TLS wrapts the SMTP protocol into encrpypted packets as it starts with the TLS handshake of "Client Hello" and then on packet 18 with the Server Hello where they negotiate cipher suites, keys and establishes the secure channel. From there the application data on the other packets is the encrypted payload.
